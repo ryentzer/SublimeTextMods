@@ -1,4 +1,4 @@
-SublimeTextMods
+Sublime Text Mods
 ===============
 
-Sublime Text Modifications - Various changes I've made to suit my needs
+These are various changes I've made to Sublime Text to suit my needs.
